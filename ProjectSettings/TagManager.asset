@@ -6,6 +6,9 @@ TagManager:
   tags:
   - death
   - block
+  - Ball
+  - Undefined
+  - ball
   layers:
   - Default
   - TransparentFX
